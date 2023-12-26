@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "campaigns": "Cosmetics",
+    "clicks": "712",
+    "cost": " 4272",
+    "convensions": "8",
+    "renvenue": " 165568"
+  },
+  {
+    "id": 2,
+    "campaigns": "Serums",
+    "clicks": "3961",
+    "cost": " 27331",
+    "convensions": "115",
+    "renvenue": " 362526"
+  },
+  {
+    "id": 3,
+    "campaigns": "Facewash",
+    "clicks": "9462",
+    "cost": " 76831",
+    "convensions": "123",
+    "renvenue": "  266,800"
+  },
+  {
+    "id": 4,
+    "campaigns": "Shampoos",
+    "clicks": "439",
+    "cost": " 2151",
+    "convensions": "5",
+    "renvenue": " 11029"
+  },
+  {
+    "id": 5,
+    "campaigns": "Conditioners",
+    "clicks": "1680",
+    "cost": " 1680",
+    "convensions": "49",
+    "renvenue": " 175,245"
+  },
+  {
+    "id": 6,
+    "campaigns": "Facewash2",
+    "clicks": "4978",
+    "cost": " 29370",
+    "convensions": "189",
+    "renvenue": "623,106"
+  }
+]
